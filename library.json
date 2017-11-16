@@ -1,0 +1,24 @@
+{
+    "name": "WidgetOptCtrlLamp",
+    "version": "1.0.0",
+    "keywords": "Widget,OptCtrlLamp",
+    "description": "光控灯应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetOptCtrlLamp.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "GY30",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
